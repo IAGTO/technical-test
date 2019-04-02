@@ -33,8 +33,6 @@ As a user running the application
 I can View Archived intros (if there is any)  
 So that I can check what intro was used in a previous weeks' news letter  
 
-### Additional User Stories
-
 As a user running the application  
 I should be able to make draft intro live  
 And the current live intro (if there is one) will be archived automatically  
