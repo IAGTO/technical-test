@@ -55,3 +55,8 @@ See if you can use Docker and docker-compose to run both the API and the client
 3. What would you add to your React solution if you had more time?
 4. What libraries did you add to the frontend? What are they used for?
 5. Which parts did you spend the most time with? What did you find most difficult?
+
+## Submission
+
+Please put your solution in a zip file and name it <yourname>-technical-test.zip  
+If the size of the zip file is less than 10Mb, then please email the zip file to your contact at IAGTO or share it in a public google drive folder and email the link to your contact at IAGTO.
