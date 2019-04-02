@@ -5,7 +5,7 @@ Thank you for taking time to do our technical test. This test consist of two par
 1. Coding test
 2. A few technical questions 
 
-# Coding Test
+## Coding Test
 
 IAGTO has a weekly newsletter that goes out to more than 4000 contacts around the world. Writing the intro for this newsletter is done by one of the editors every week. When the news broadcast is sent out, the live intro is used, and the same live intro will be displayed on the IAGTO website. The intro editor should also be able to write the next weeks' intro (Draft intro) while one intro is live. When a draft intro is made live, the current live intro has to be Archived. Each intro should keep track of the Created Date Time and Updated Date Time. Archived intros shouldn't be editable.
 
@@ -13,7 +13,7 @@ There can only be 1 live intro and 1 draft intro at any given moment. But there 
 
 ### API Implementation
 
-Please use .net core 2.2 to develop the web api and database of your choice that is suitable for data that needs to be saved. 
+Please use .net core 2.2 to develop the web api and database of your choice that is suitable for data that needs to be saved. Use Domain Driven Design (DDD) approach to design the domain model.
 
 ### Client Implementation
 
@@ -50,7 +50,10 @@ Please make sure the API runs on localhost:5001 and the client runs on localhost
 
 See if you can use Docker and docker-compose to run both the API and the client
 
-# Technical Questions
+## Technical Questions
 
-1. How long did you spend on the coding test?
-2. What would you add to your solution if you had more time?
+1. How long (in hours) did you spend on the coding test?
+2. What would you add to your API solution if you had more time?
+3. What would you add to your React solution if you had more time?
+4. What libraries did you add to the frontend? What are they used for?
+5. Which parts did you spend the most time with? What did you find most difficult?
